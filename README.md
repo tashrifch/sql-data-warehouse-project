@@ -1,4 +1,4 @@
-# Data Warehouse and Analytics Project Tutorial
+# Data Warehouse and Analytics Project 
 
 (This a copied readme for learning purpose in formating a readme)
 
