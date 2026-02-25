@@ -1,6 +1,7 @@
 # Data Warehouse and Analytics Project 
 
 (This a copied readme for learning purpose in formating a readme)
+(data with baraa guide, with originals edits by me)
 
 Welcome to the **Data Warehouse and Analytics Project** repository! 
 This tutorial implements a data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Desined as a porfolio project it highlights industry best practices in data engineering and analytics. 
