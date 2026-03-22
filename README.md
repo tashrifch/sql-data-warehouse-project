@@ -1,6 +1,5 @@
 # Data Warehouse and Analytics Project 
 
-(This a copied readme for learning purpose in formating a readme)
 (data with baraa guide, with originals edits by me)
 
 Welcome to the **Data Warehouse and Analytics Project** repository! 
